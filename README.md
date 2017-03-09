@@ -1,3 +1,7 @@
+<a href="http://stackoverflow.com/users/4617428/rdlopes">
+<img src="http://stackoverflow.com/users/flair/4617428.png?theme=clean" width="208" height="58" alt="profile for rdlopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rdlopes at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rdlopes/rdlopes.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
